@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lines driverId="603001" driverName="Martin Pančík">
+  <line id="060402" type="autobus" carrier="IDSBBSK" idsnumber="402">
+    <connection num="1" name="402" drivein="pracovné dni" direction="Michalová, Rohozná a Podkoreňová.">
+      <stop name="P. Polhora, Otočka" departure="06:00" platform="1" sign="false" tts="Pohronská Polhora, Otočka" lat="48.7486270" lon="19.8117828" zone="419" />
+      <stop name="P. Polhora, Horný koniec" departure="06:01" platform="1" sign="false" tts="Pohronská Polhora, Horný koniec" lat="48.7500571" lon="19.8072006" zone="419" /> 
+      <stop name="P. Polhora, Stará pošta" departure="06:02" platform="1" sign="false" tts="Pohronská Polhora, Stará pošta" lat="48.7534495" lon="19.8019808" zone="419" /> 
+     <stop name="P. Polhora, OcÚ" departure="06:04" platform="1" sign="false" tts="Pohronská Polhora, Obecný úrad" lat="48.7550268" lon="19.7990069" zone="419" /> 
+     <stop name="P. Polhora, ZŠ" departure="06:06" platform="1" sign="false" tts="Pohronská Polhora, Základná škola" lat="48.7576551" lon="19.7915046" zone="419" /> 
+     <stop name="Michalová, Survik" departure="06:07" platform="1" sign="false" tts="Michalová, Survik" lat="48.7600955" lon="19.7860440" zone="419" />
+     <stop name="Michalová, Zdrav. str." departure="06:09" platform="1" sign="false" tts="Michalová, Zdravotné stredisko" lat="48.7625137" lon="19.7797812" zone="419" />
+     <stop name="Michalová, Marko" departure="06:11" platform="1" sign="false" tts="Michalová, Marko" lat="48.7664077" lon="19.7700957" zone="419" />
+     <stop name="Michalová, Kubická" departure="06:13" platform="1" sign="false" tts="Michalová, Kubická" lat="48.7726862" lon="19.7578713" zone="419" />
+   <stop name="Brezno, Rohozná, Hlin. potok" departure="06:16" platform="1" sign="true" tts="Brezno, Rohozná, Hlinický potok" lat="48.7812320" lon="19.7377545" zone="400" />
+ <stop name="Brezno, Rohozná, Vlček" departure="06:18" platform="1" sign="false" tts="Brezno, Rohozná, Vlček" lat="48.7911426" lon="19.7219992" zone="400" />
+<stop name="Brezno, Rohozná, Hotel" departure="06:20" platform="1" sign="false" tts="Brezno, Rohozná, Hotel" lat="48.7941189" lon="19.7135150" zone="400" />
+<stop name="Brezno, Rohozná, Kozí dvor" departure="06:21" platform="1" sign="false" tts="Brezno, Rohozná, Kozí dvor" lat="48.7955237" lon="19.7010684" zone="400" />
+<stop name="Brezno, Rohozná, Lámer" departure="06:22" platform="1" sign="false" tts="Brezno, Rohozná, Lámer" lat="48.7980555" lon="19.6880728" zone="400" />
+<stop name="Brezno, Podkoreňová, Rázc." departure="06:24" platform="1" sign="false" tts="Brezno, Podkoreňová, Rázcestie" lat="48.8005853" lon="19.6621928" zone="400" />
+<stop name="Brezno, Podkoreňová, PD" departure="06:25" platform="1" sign="false" tts="Brezno, Podkoreňová, Poľnohospodárske družstvo" lat="48.8015597" lon="19.6573955" zone="400" />
+<stop name="Brezno, Pod zel. stromom" departure="06:27" platform="1" sign="false" tts="Brezno, Pod zeleným stromom" lat="48.8056935" lon="19.6479423" zone="400" />
+<stop name="Brezno, Ul. ČSA" departure="06:30" platform="1" sign="false" tts="Brezno, Ulica Československej armády" lat="48.8074150" lon="19.6388512" zone="400" />
+<stop name="Brezno, AS" departure="06:33" platform="1" sign="false" tts="Brezno, Autobusová stanica" lat="48.8023192" lon="19.6293505" zone="400" />
+    </connection>
+      <connection num="2" name="402" drivein="pracovné dni" direction="Podkoreňová, Rohozná a Michalová.">
+<stop name="Brezno, AS" departure="06:40" platform="9" sign="false" tts="Brezno, Autobusová stanica" lat="48.8018733" lon="19.6297967" zone="400" />
+<stop name="Brezno, Ul. ČSA" departure="06:43" platform="2" sign="false" tts="Brezno, Ulica Československej armády" lat="48.8071504" lon="19.6394833" zone="400" />
+<stop name="Brezno, Pod zel. stromom" departure="06:46" platform="2" sign="false" tts="Brezno, Pod zeleným stromom" lat="48.8058518" lon="19.6470646" zone="400" />
+<stop name="Brezno, Podkoreňová, PD" departure="06:48" platform="2" sign="false" tts="Brezno, Podkoreňová, Poľnohospodárske družstvo" lat="48.8015627" lon="19.6573817" zone="400" />
+<stop name="Brezno, Podkoreňová, Rázc." departure="06:49" platform="2" sign="false" tts="Brezno, Podkoreňová, Rázcestie" lat="48.8005665" lon="19.6622641" zone="400" />
+<stop name="Brezno, Rohozná, Lámer" departure="06:51" platform="2" sign="false" tts="Brezno, Rohozná, Lámer" lat="48.7980668" lon="19.6880575" zone="400" />
+<stop name="Brezno, Rohozná, Kozí dvor" departure="06:52" platform="2" sign="false" tts="Brezno, Rohozná, Kozí dvor" lat="48.7955158" lon="19.7010728" zone="400" />
+<stop name="Brezno, Rohozná, Hotel" departure="06:53" platform="2" sign="false" tts="Brezno, Rohozná, Hotel" lat="48.7941142" lon="19.7134881" zone="400" />
+<stop name="Brezno, Rohozná, Vlček" departure="06:54" platform="2" sign="false" tts="Brezno, Rohozná, Vlček" lat="48.7911702" lon="19.7219358" zone="400" />
+<stop name="Brezno, Rohozná, Hlin. potok" departure="06:57" platform="2" sign="false" tts="Brezno, Rohozná, Hlinický potok" lat="48.7812251" lon="19.7377275" zone="400" />
+<stop name="Michalová, Kubická" departure="07:00" platform="2" sign="false" tts="Michalová, Kubická" lat="48.7726815" lon="19.7578528" zone="419" />
+<stop name="Michalová, Marko" departure="07:02" platform="2" sign="false" tts="Michalová, Marko" lat="48.7664332" lon="19.7700489" zone="419" />
+<stop name="Michalová, Zdrav. str." departure="07:04" platform="2" sign="false" tts="Michalová, Zdravotné stredisko" lat="48.7626968" lon="19.7790475" zone="419" />
+<stop name="Michalová, Survik" departure="07:05" platform="2" sign="false" tts="Michalová, Survik" lat="48.7600956" lon="19.7860246" zone="419" />
+<stop name="P. Polhora, ZŠ" departure="07:06" platform="2" sign="false" tts="Pohronská Polhora, Základná škola" lat="48.7576646" lon="19.791474" zone="419" />
+<stop name="P. Polhora, OcÚ" departure="07:08" platform="2" sign="false" tts="Pohronská Polhora, Obecný úrad" lat="48.7549900" lon="19.7990186" zone="419" />
+<stop name="P. Polhora, Stará pošta" departure="07:09" platform="2" sign="false" tts="Pohronská Polhora, Stará pošta" lat="48.7534449" lon="19.8019905" zone="419" />
+<stop name="P. Polhora, Horný koniec" departure="07:11" platform="2" sign="false" tts="Pohronská Polhora, Horný koniec" lat="48.7500661" lon="19.8072102" zone="419" />
+<stop name="P. Polhora, Otočka" departure="07:11" platform="2" sign="false" tts="Pohronská Polhora, Otočka" lat="48.7486189" lon="19.8115357" zone="419" />
+    </connection>
+  </line>
+
+  <line id="67" type="osobný vlak" carrier="ZSSK" idsnumber="S67">
+    <connection num="80" name="OS6780" drivein="pracovné dni" direction="Rohozná, Michalová, Pohronská Polhora, Zbojská a Bánovo.">
+      <stop name="Brezno" departure="10:00" platform="3" sign="false" tts="Brezno" lat="48.8015664" lon="19.6288119" zone="400" />
+      <stop name="Brezno, Mesto" departure="10:03" platform="1" sign="false" tts="Brezno, Mesto" lat="48.8041686" lon="19.6473105" zone="400" />
+<stop name="Brezno, Halny" departure="10:07" platform="2" sign="true" tts="Brezno, Halny" lat="48.8176473" lon="19.6653163" zone="400" />
+<stop name="Brezno, Rohozná" departure="10:14" platform="1" sign="true" tts="Brezno, Rohozná" lat="48.7948542" lon="19.7088086" zone="400" />
+<stop name="Michalová, Kubická" departure="10:20" platform="1" sign="true" tts="Michalová, Kubická" lat="48.7737236" lon="19.7569585" zone="419" />
+<stop name="Michalová, Zastávka" departure="10:22" platform="1" sign="true" tts="Michalová, Zastávka" lat="48.7700072" lon="19.7671966" zone="419" />
+<stop name="Michalová" departure="10:24" platform="1" sign="false" tts="Michalová" lat="48.7654583" lon="19.7772847" zone="419" />
+<stop name="Pohronská Polhora" departure="10:28" platform="1" sign="false" tts="Pohronská Polhora" lat="48.7583950" lon="19.7936015" zone="419" />
+<stop name="Pohronská Polhora, Zast." departure="10:32" platform="1" sign="true" tts="Pohronská Polhora, Zastávka" lat="48.7490680" lon="19.8138126" zone="419" />
+<stop name="Zbojská" departure="10:40" platform="1" sign="false" tts="Zbojská" lat="48.7464471" lon="19.8412058" zone="419" /> 
+<stop name="Zbojská, Salaš" departure="10:42" platform="1" sign="true" tts="Zbojská, Salaš" lat="48.7439188" lon="19.8506759" zone="419" /> 
+<stop name="Tisovec, Bánovo" departure="10:51" platform="1" sign="true" tts="Tisovec, Bánovo" lat="48.7158125" lon="19.8676003" zone="537" /> 
+<stop name="Tisovec" departure="11:06" platform="1" sign="false" tts="Tisovec" lat="48.6907714" lon="19.9356416" zone="537" /> 
+    </connection>
+  </line>
+</lines>
